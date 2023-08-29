@@ -1,2 +1,1 @@
-# MovieRentalApp
- 📽Movie Rental
+# 📽Movie Rentals
