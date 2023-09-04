@@ -1,0 +1,20 @@
+{
+    "rental_list": [
+        {
+            "id": 1, 
+            "movie_id": 1, 
+            "client_id": 1, 
+            "rented_date": "2023-08-22",
+            "due_date": "2023-11-07",
+            "returned_date": "2023-09-01"
+        }, 
+        {
+            "id": 2, 
+            "movie_id": 2, 
+            "client_id": 2, 
+            "rented_date": "2023-05-27",
+            "due_date": "2023-06-25",
+            "returned_date": "2023-10-20"
+        }
+    ]
+}

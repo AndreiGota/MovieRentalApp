@@ -1,0 +1,5 @@
+repository = textfiles
+movies = "data/movies.txt"
+clients = "data/clients.txt"
+rentals = "data/rentals.txt"
+ui = "GUI"

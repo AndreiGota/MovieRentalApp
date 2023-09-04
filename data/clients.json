@@ -1,0 +1,44 @@
+{
+    "client_list": [
+        {
+            "id": 1, 
+            "name": "John Doe"
+        }, 
+        {
+            "id": 2, 
+            "name": "Liu Kang"
+        }, 
+        {
+            "id": 3, 
+            "name": "Fuji"
+        }, 
+        {
+            "id": 4, 
+            "name": "Joe Andrew"
+        }, 
+        {
+            "id": 5, 
+            "name": "Nikolai"
+        }, 
+        {
+            "id": 6, 
+            "name": "Kyle"
+        }, 
+        {
+            "id": 7, 
+            "name": "Naomi"
+        }, 
+        {
+            "id": 8, 
+            "name": "Bob"
+        }, 
+        {
+            "id": 9, 
+            "name": "Victor Pop"
+        }, 
+        {
+            "id": 10, 
+            "name": "Freddy"
+        }
+    ]
+}
