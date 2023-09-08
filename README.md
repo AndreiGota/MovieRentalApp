@@ -20,3 +20,4 @@ Application that manages a movie rental store.
 - Searching for movies, clients or rentings by any attributes, or by all of them at once.
 - Getting statistics for the most rented movies, the most active clients and the overdue movies.
 - Letting the user select the data storage mode and the user interface using the settings file.
+- Undo and Redo functionality for all data-modifying features.
