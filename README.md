@@ -9,7 +9,10 @@ Application that manages a movie rental store.
 - Tests coverage 96% except the UI
 - Several ways of storing the data persistently - json file, binary file and text file - selectable within a settings file 
 - Exceptions handling
+
+  ## Design Patterns Used
 - ```Command``` design pattern, used for the undo/redo functionality.
+- ```Data Access Object``` pattern, used for reading the data in the text files.
 
 ## Other Application Features
 - Adding, removing, updating and listing all movies, clients.
